@@ -1,0 +1,45 @@
+.gradient-custom-2 {
+    background: #fccb90;
+    background: -webkit-linear-gradient(to right, #ee7724, #d8363a, #dd3675, #b44593);
+
+    background: linear-gradient(to right, #ee7724, #d8363a, #dd3675, #b44593);
+    }
+     .form{
+        border: none !important;
+        background-color: #eeeeee !important;
+    }
+  .btnAdd{
+    width: 100% !important;
+  }
+  .btnView {
+    color: white !important;
+    border: 1px solid white !important;
+    margin-top: 100px;
+}
+  .selctBtn{
+   
+      margin-left: 50px;
+      margin-top: 50px !important;
+ 
+  }
+  .allbtn{
+    border: 1px solid gray;
+    background-color: #fff;
+  }
+  .taskOutput{
+    border: none !important;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+   
+  }
+    @media (min-width: 768px) {
+    .gradient-form {
+    height: 100vh !important;
+    }
+    }
+    @media (min-width: 769px) {
+    .gradient-custom-2 {
+    border-top-right-radius: .3rem;
+    border-bottom-right-radius: .3rem;
+    }
+    }
+    
